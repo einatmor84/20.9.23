@@ -1,0 +1,15 @@
+צור מחלקה- airplane עם השדות הנ"ל:
+
+private int flight;
+
+ private String destination;
+
+ private double speed;
+
+ private double distance;
+
+- כתבו בנאי המקבל את כל השדות האלו.
+
+- הבנאי ידפיס גם הודעה לפקח הטיסה שנוצר אובייקט מטוס חדש וידפיס את הפרטים שלו.
+
+- כתבו שיטה היוצרת מחרוזת של פרטי הטיסה.
