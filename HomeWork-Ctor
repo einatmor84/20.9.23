@@ -1,0 +1,15 @@
+1.	When a class constructor gets called?
+2.	If you create 5 objects of a class, then how many time constructors will be called?
+3.	When you write a constructor, what return type do you write in constructor declaration?
+4.	Why do you use constructor?
+5.	create a class called Circle. 
+properties: double radius. 
+function: void printSize. 
+Create constructor to the class.
+etgar: print the actual size inside print size function.
+now create 2 circles: one with radius of 5.4 and a second circle with radius 8.7. call printSize for each circle you created.
+6.	Create class car with property - brand. 
+Write a constructor in the Car class that initializes the brand class field with the string “Ford”. 
+Create functions: getBrand() and run car(). 
+In the main class- create a car object and Call the getBrand() method and store the value of the brand in a variable, and print the value.
+
